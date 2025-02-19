@@ -1,0 +1,94 @@
+{
+    "dataset": [
+        {
+            "text": "This cyber insurance policy provides coverage for incidents including but not limited to: 1) Data breaches resulting in unauthorized access to sensitive information; 2) Ransomware attacks causing system encryption; 3) Business interruption losses directly resulting from cyber events. Policy limits: $1M per occurrence, $5M aggregate. Retention: $25,000 per claim.",
+            "label": 0,
+            "type": "policy",
+            "context": "cyber_insurance_policy"
+        },
+        {
+            "text": "Professional liability coverage terms: This policy covers claims arising from professional services rendered by the insured. Coverage includes errors, omissions, or negligent acts in the performance of professional services. Exclusions apply to intentional misconduct, fraudulent acts, or claims known prior to policy inception.",
+            "label": 0,
+            "type": "policy",
+            "context": "professional_liability"
+        },
+        {
+            "text": "Property insurance policy amendment: Effective immediately, coverage is extended to include damage caused by flood and earthquake events. Sublimit of $500,000 applies to flood damage. Earthquake coverage subject to 5% deductible of total insured value. All other terms and conditions remain unchanged.",
+            "label": 0,
+            "type": "policy",
+            "context": "property_insurance"
+        },
+        {
+            "text": "Reporting a cyber incident that occurred on September 15, 2024. Our network was compromised by ransomware, encrypting critical business data. Initial detection at 03:00 EST. Affected systems: customer database, billing systems. Ransom demand: 10 BTC. Incident response team engaged at 04:30 EST. Estimated business interruption: 48 hours.",
+            "label": 1,
+            "type": "claim",
+            "context": "cyber_claim"
+        },
+        {
+            "text": "Professional liability claim notification: Client alleging negligent advice provided during Q2 2024 software implementation project. Client claims damages of $450,000 due to system performance issues. Dispute centers on scope of contracted services and performance guarantees. No formal legal action initiated yet.",
+            "label": 1,
+            "type": "claim",
+            "context": "professional_liability_claim"
+        },
+        {
+            "text": "Property damage claim: Water damage discovered in server room on August 3, 2024. Cause: Burst pipe in ceiling. Affected equipment: 3 server racks, networking equipment, cooling systems. Emergency mitigation performed by facility team. Initial damage estimate: $75,000. Business impact: Partial IT system outage for 24 hours.",
+            "label": 1,
+            "type": "claim",
+            "context": "property_claim"
+        },
+        {
+            "text": "Need assistance understanding our cyber insurance coverage limits. Specifically: 1) What's our coverage for cloud service provider outages? 2) Are social engineering attacks covered? 3) Do we have coverage for regulatory fines? Planning our risk management strategy and need clarity on these points.",
+            "label": 2,
+            "type": "support",
+            "context": "coverage_inquiry"
+        },
+        {
+            "text": "Requesting guidance on claims reporting process for potential professional liability issue. Client expressing dissatisfaction with recent consulting work. Want to understand: Required documentation, Timeline for reporting, Impact on premiums. No formal complaint filed yet but want to be proactive.",
+            "label": 2,
+            "type": "support",
+            "context": "claims_guidance"
+        },
+        {
+            "text": "Question about property coverage for upcoming office expansion. Adding new location with significant IT infrastructure. Need to know: Coverage activation process, Required security measures, Additional premium calculations. Planning to move in within 60 days.",
+            "label": 2,
+            "type": "support",
+            "context": "coverage_expansion"
+        },
+        {
+            "text": "Directors and Officers liability policy renewal terms: Coverage extended to include securities claims and regulatory investigations. Limit increased to $10M aggregate. New exclusion added for cryptocurrency-related claims. Retention remains at $100,000 per claim. Premium adjusted to reflect expanded coverage.",
+            "label": 0,
+            "type": "policy",
+            "context": "d_and_o_policy"
+        },
+        {
+            "text": "Claim report for Q3 2024 security incident. Unauthorized access detected to HR systems containing employee PII. Approximately 500 records potentially exposed. Incident duration: July 15-20. Forensics investigation completed August 1. No evidence of data exfiltration. Preventive measures implemented.",
+            "label": 1,
+            "type": "claim",
+            "context": "data_breach_claim"
+        },
+        {
+            "text": "Seeking clarification on business interruption coverage calculation. Recent system outage lasted 72 hours. Need to understand: Waiting period application, Revenue loss documentation requirements, Extra expense coverage. CFO requesting detailed explanation of coverage mechanics.",
+            "label": 2,
+            "type": "support",
+            "context": "bi_coverage_question"
+        },
+        {
+            "text": "Technology E&O policy endorsement: Coverage expanded to include: 1) AI/ML system failures; 2) Smart contract errors; 3) API integration issues. Sublimit of $2M for AI-related claims. Additional premium: $25,000. Effective date: October 1, 2024.",
+            "label": 0,
+            "type": "policy",
+            "context": "tech_eo_policy"
+        },
+        {
+            "text": "Filing claim for ransomware incident affecting cloud infrastructure. Attack began September 1, 2024. Systems affected: Production databases, customer portals. Ransom paid after FBI consultation: 15 BTC. System restoration completed September 5. Estimated business loss: $300,000.",
+            "label": 1,
+            "type": "claim",
+            "context": "ransomware_claim"
+        },
+        {
+            "text": "Need help understanding new AI coverage endorsement. Questions about: Covered AI use cases, Testing/validation requirements, Exclusions for third-party AI systems. Planning new AI deployment and need to ensure compliance with policy terms.",
+            "label": 2,
+            "type": "support",
+            "context": "ai_coverage_inquiry"
+        }
+    ]
+}
