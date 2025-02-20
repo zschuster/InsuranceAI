@@ -3,22 +3,22 @@ from sklearn.model_selection import train_test_split
 from torch.utils.data import Dataset
 from transformers import AutoTokenizer
 
+from constants import MODEL_NAME
+
 
 class InsuranceDataset(Dataset):
     """
     A custom dataset class for our syntheitc insurance documents.
     
     This class helps us prepare our data in a format that the transformer models can use.
-    Think of it as translating our insurance documents into a language our model understands.
     """
     def __init__(self, texts: list[str], labels: list[int], tokenizer: AutoTokenizer, max_length: int = 512) -> None:
-        # The tokenizer converts our text into numbers (tokens) that the model can process
         self.encodings = tokenizer(
             texts,
-            truncation=True,          # Cut documents to max_length
-            padding=True,             # Make all documents the same length for matrix operations
-            max_length=max_length,    # Maximum number of tokens to use - Would be larger in real life
-            return_tensors='pt'       # Return PyTorch tensors
+            truncation=True,      
+            padding=True,         
+            max_length=max_length,
+            return_tensors='pt'   
         )
         self.labels = labels
 
@@ -72,7 +72,7 @@ def load_and_prepare_data(file_path: str, test_size: float = 0.2):
 
 
 def create_datasets(data_splits: dict[str, tuple[list[str], list[int]]], 
-                   model_name: str = "distilroberta-base"
+                   model_name: str = MODEL_NAME
                    ) -> tuple[AutoTokenizer, InsuranceDataset, InsuranceDataset]:
     """
     Creates PyTorch datasets from our data splits.
