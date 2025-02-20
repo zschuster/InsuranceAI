@@ -89,6 +89,564 @@
             "label": 2,
             "type": "support",
             "context": "ai_coverage_inquiry"
+        },
+        {
+            "text": "Employment Practices Liability policy update: Coverage now includes remote work-related claims, workplace harassment via digital platforms, and discrimination in virtual hiring processes. Limit: $3M aggregate. Retention: $50,000 per claim. Effective date: November 1, 2024.",
+            "label": 0,
+            "type": "policy",
+            "context": "epli_policy"
+        },
+        {
+            "text": "Reporting network security incident detected October 12, 2024. DDoS attack impacted customer-facing applications for 36 hours. Peak attack volume: 2.5 Tbps. Mitigation costs: $125,000. Revenue impact estimated at $200,000. Third-party security vendor engaged for mitigation.",
+            "label": 1,
+            "type": "claim",
+            "context": "ddos_claim"
+        },
+        {
+            "text": "Seeking guidance on coverage implications of new quantum computing initiative. Need to understand: Security protocol requirements, Technology failure coverage scope, and Potential exclusions. Project launch planned for Q2 2025.",
+            "label": 2,
+            "type": "support",
+            "context": "quantum_computing_inquiry"
+        },
+        {
+            "text": "This cyber insurance policy provides coverage for incidents including but not limited to: 1) Data breaches resulting in unauthorized access to sensitive information; 2) Ransomware attacks causing system encryption; 3) Business interruption losses directly resulting from cyber events. Policy limits: $1M per occurrence, $5M aggregate. Retention: $25,000 per claim.",
+            "label": 0,
+            "type": "policy",
+            "context": "cyber_insurance_policy"
+        },
+        {
+            "text": "Professional liability coverage terms: This policy covers claims arising from professional services rendered by the insured. Coverage includes errors, omissions, or negligent acts in the performance of professional services. Exclusions apply to intentional misconduct, fraudulent acts, or claims known prior to policy inception.",
+            "label": 0,
+            "type": "policy",
+            "context": "professional_liability"
+        },
+        {
+            "text": "Property insurance policy amendment: Effective immediately, coverage is extended to include damage caused by flood and earthquake events. Sublimit of $500,000 applies to flood damage. Earthquake coverage subject to 5% deductible of total insured value. All other terms and conditions remain unchanged.",
+            "label": 0,
+            "type": "policy",
+            "context": "property_insurance"
+        },
+        {
+            "text": "Reporting a cyber incident that occurred on September 15, 2024. Our network was compromised by ransomware, encrypting critical business data. Initial detection at 03:00 EST. Affected systems: customer database, billing systems. Ransom demand: 10 BTC. Incident response team engaged at 04:30 EST. Estimated business interruption: 48 hours.",
+            "label": 1,
+            "type": "claim",
+            "context": "cyber_claim"
+        },
+        {
+            "text": "Professional liability claim notification: Client alleging negligent advice provided during Q2 2024 software implementation project. Client claims damages of $450,000 due to system performance issues. Dispute centers on scope of contracted services and performance guarantees. No formal legal action initiated yet.",
+            "label": 1,
+            "type": "claim",
+            "context": "professional_liability_claim"
+        },
+        {
+            "text": "Cloud service provider liability endorsement: Coverage extended to include service interruptions, data loss, and security breaches originating from approved cloud providers. Sublimit: $2M per occurrence. Additional premium: $15,000. Effective date: January 1, 2025.",
+            "label": 0,
+            "type": "policy",
+            "context": "cloud_provider_policy"
+        },
+        {
+            "text": "Incident report: Major service disruption on November 3, 2024. Cloud provider outage affected core business applications. Duration: 8 hours. Revenue loss estimated at $180,000. Additional costs for emergency migration to backup systems: $45,000. Full recovery achieved November 4.",
+            "label": 1,
+            "type": "claim",
+            "context": "cloud_outage_claim"
+        },
+        {
+            "text": "Requesting information about IoT device coverage under current cyber policy. Planning deployment of 500+ connected sensors. Need clarity on: Security requirements, Incident response protocols, Coverage limits for IoT-specific attacks. Implementation scheduled for Q1 2025.",
+            "label": 2,
+            "type": "support",
+            "context": "iot_coverage_inquiry"
+        },
+        {
+            "text": "Blockchain technology endorsement: Coverage for smart contract failures, cryptocurrency transactions, and distributed ledger operations. Sublimit: $1.5M for smart contract incidents. Exclusions apply to unauthorized mining operations. Effective: March 15, 2025.",
+            "label": 0,
+            "type": "policy",
+            "context": "blockchain_policy"
+        },
+        {
+            "text": "Data breach notification: Customer database compromised between October 1-5, 2024. Approximately 25,000 records affected. Information exposed: names, addresses, purchase history. Forensic investigation cost: $85,000. Legal notification requirements initiated. Crisis management team engaged.",
+            "label": 1,
+            "type": "claim",
+            "context": "data_breach_claim"
+        },
+        {
+            "text": "AI System Liability Policy Amendment: Coverage extended to include machine learning model errors, AI decision-making failures, and automated system malfunctions. Sublimit: $3M per occurrence. Requires quarterly model validation. Effective: April 1, 2025.",
+            "label": 0,
+            "type": "policy",
+            "context": "ai_liability_policy"
+        },
+        {
+            "text": "Reporting social engineering attack incident dated December 5, 2024. Employee deceived by sophisticated phishing scheme. Fraudulent wire transfer: $175,000. Attack vector: Compromised vendor email. Incident detected within 4 hours. FBI and financial institutions notified.",
+            "label": 1,
+            "type": "claim",
+            "context": "social_engineering_claim"
+        },
+        {
+            "text": "Seeking guidance on multi-cloud infrastructure coverage requirements. Planning migration across AWS, Azure, and GCP. Need clarification on: Cross-cloud liability, Data transit coverage, Service level agreement requirements. Migration starts Q3 2025.",
+            "label": 2,
+            "type": "support",
+            "context": "multi_cloud_inquiry"
+        },
+        {
+            "text": "Zero-Trust Security Compliance Endorsement: Additional coverage for zero-trust architecture implementation. Includes identity verification failures, micro-segmentation breaches, and continuous authentication errors. Sublimit: $1M. Premium: $20,000.",
+            "label": 0,
+            "type": "policy",
+            "context": "zero_trust_policy"
+        },
+        {
+            "text": "Supply chain cyber attack notification: Third-party software provider compromised February 15, 2025. Malicious code deployed through automatic updates. Systems affected: Inventory management, supplier portal. Remediation costs: $250,000. Business interruption: 36 hours.",
+            "label": 1,
+            "type": "claim",
+            "context": "supply_chain_claim"
+        },
+        {
+            "text": "Quantum-resistant cryptography policy endorsement: Coverage for transition to post-quantum cryptographic systems. Includes: Algorithm replacement costs, System upgrade failures, Data migration incidents. Sublimit: $2.5M. Effective: June 1, 2025.",
+            "label": 0,
+            "type": "policy",
+            "context": "quantum_crypto_policy"
+        },
+        {
+            "text": "Reporting API security breach incident on March 3, 2025. Unauthorized access through compromised authentication tokens. Affected services: Payment processing API, Customer data API. Duration: 6 hours. Estimated impact: $120,000. Security patches implemented.",
+            "label": 1,
+            "type": "claim",
+            "context": "api_security_claim"
+        },
+        {
+            "text": "Request for coverage review: Implementing new DevSecOps pipeline. Need clarification on: Continuous deployment coverage, Automated testing failures, Security scanning requirements. Implementation deadline: Q2 2025.",
+            "label": 2,
+            "type": "support",
+            "context": "devsecops_inquiry"
+        },
+        {
+            "text": "5G Network Security Policy Amendment: Extended coverage for 5G infrastructure vulnerabilities, network slicing failures, and edge computing incidents. Sublimit: $4M per occurrence. Additional premium: $30,000. Effective: July 15, 2025.",
+            "label": 0,
+            "type": "policy",
+            "context": "5g_security_policy"
+        },
+        {
+            "text": "Data center environmental incident report: Cooling system failure on April 10, 2025. Duration: 3 hours. Hardware damage: 15 servers, 2 storage arrays. Emergency response costs: $95,000. Business impact: Partial service degradation.",
+            "label": 1,
+            "type": "claim",
+            "context": "datacenter_claim"
+        },
+        {
+            "text": "Digital Identity Protection Policy: Coverage for biometric authentication failures, digital identity theft, and credential stuffing attacks. Includes incident response and customer notification costs. Limit: $2M aggregate. Effective: August 1, 2025.",
+            "label": 0,
+            "type": "policy",
+            "context": "digital_identity_policy"
+        },
+        {
+            "text": "Reporting container orchestration failure: Kubernetes cluster outage on May 5, 2025. Impact: 200+ microservices affected. Duration: 4 hours. Recovery costs: $85,000. Root cause: Configuration management error. Business impact: $150,000.",
+            "label": 1,
+            "type": "claim",
+            "context": "container_orchestration_claim"
+        },
+        {
+            "text": "Seeking guidance on edge computing coverage requirements. Deploying 50 edge locations globally. Questions about: Per-location limits, Cross-border compliance, Local regulatory requirements. Deployment timeline: Q3 2025.",
+            "label": 2,
+            "type": "support",
+            "context": "edge_computing_inquiry"
+        },
+        {
+            "text": "Autonomous Systems Liability Endorsement: Coverage for AI-driven decision systems, autonomous vehicle operations, and robotic process automation failures. Sublimit: $3.5M. Quarterly risk assessments required. Effective: September 1, 2025.",
+            "label": 0,
+            "type": "policy",
+            "context": "autonomous_systems_policy"
+        },
+        {
+            "text": "Blockchain smart contract incident: Contract vulnerability exploited on June 15, 2025. Unauthorized transactions: $280,000. Affected operations: Supply chain tracking, automated payments. Forensic audit completed. Security patches implemented.",
+            "label": 1,
+            "type": "claim",
+            "context": "smart_contract_claim"
+        },
+        {
+            "text": "Industrial IoT Security Policy Amendment: Coverage for connected industrial control systems, SCADA networks, and manufacturing automation. Includes cyber-physical system attacks and operational technology breaches. Sublimit: $3M. Effective: October 1, 2025.",
+            "label": 0,
+            "type": "policy",
+            "context": "industrial_iot_policy"
+        },
+        {
+            "text": "Reporting insider threat incident detected July 2, 2025. Former employee accessed systems using unchanged credentials. Data affected: Product roadmap, client proposals. Duration: 48 hours. Investigation costs: $65,000. Legal action pending.",
+            "label": 1,
+            "type": "claim",
+            "context": "insider_threat_claim"
+        },
+        {
+            "text": "Need clarification on regulatory compliance coverage. New data privacy laws affecting operations in EU and California. Questions about: Cross-border data transfers, Mandatory breach reporting, Regulatory fine coverage. Compliance deadline: Q4 2025.",
+            "label": 2,
+            "type": "support",
+            "context": "regulatory_compliance_inquiry"
+        },
+        {
+            "text": "Augmented Reality System Liability Coverage: New policy covering AR hardware failures, software glitches, and user injury claims. Includes virtual overlay errors and spatial mapping failures. Limit: $2.5M aggregate. Effective: November 15, 2025.",
+            "label": 0,
+            "type": "policy",
+            "context": "ar_liability_policy"
+        },
+        {
+            "text": "Critical infrastructure breach report: Power management systems compromised August 10, 2025. Attack vector: Zero-day vulnerability. Systems affected: Grid monitoring, Load balancing. Downtime: 2 hours. Emergency response cost: $195,000.",
+            "label": 1,
+            "type": "claim",
+            "context": "infrastructure_breach_claim"
+        },
+        {
+            "text": "Requesting guidance on satellite communications coverage. Expanding operations to include LEO satellite data services. Need information on: Space-based assets coverage, Ground station protection, Signal interference incidents.",
+            "label": 2,
+            "type": "support",
+            "context": "satellite_coverage_inquiry"
+        },
+        {
+            "text": "Digital Twin Technology Endorsement: Coverage for simulation errors, real-time monitoring failures, and predictive maintenance system malfunctions. Sublimit: $1.8M per occurrence. Required security protocols attached. Effective: December 1, 2025.",
+            "label": 0,
+            "type": "policy",
+            "context": "digital_twin_policy"
+        },
+        {
+            "text": "Reporting quantum computing encryption failure: Post-quantum algorithm implementation error on September 5, 2025. Affected: Secure communication channels. Duration: 12 hours. Security audit costs: $145,000. No data compromise detected.",
+            "label": 1,
+            "type": "claim",
+            "context": "quantum_encryption_claim"
+        },
+        {
+            "text": "Seeking advice on autonomous drone fleet coverage. Planning deployment of 30 inspection drones. Questions about: Collision liability, Data collection risks, Autonomous navigation failures. Launch date: Q1 2026.",
+            "label": 2,
+            "type": "support",
+            "context": "drone_fleet_inquiry"
+        },
+        {
+            "text": "Metaverse Platform Liability Policy: Coverage for virtual environment incidents, digital asset theft, and avatar-based harassment claims. Includes virtual property damage. Limit: $3M aggregate. Effective: January 15, 2026.",
+            "label": 0,
+            "type": "policy",
+            "context": "metaverse_policy"
+        },
+        {
+            "text": "Voice Authentication System Breach: Deepfake attack bypassed voice recognition security on October 12, 2025. Fraudulent transactions: $225,000. System downtime: 8 hours. Emergency security upgrades implemented.",
+            "label": 1,
+            "type": "claim",
+            "context": "voice_auth_claim"
+        },
+        {
+            "text": "Questions regarding smart building system coverage. Implementing IoT-based building management system. Need clarity on: Environmental control failures, Access system breaches, Energy management incidents.",
+            "label": 2,
+            "type": "support",
+            "context": "smart_building_inquiry"
+        },
+        {
+            "text": "Renewable Energy Technology Endorsement: Coverage for smart grid integration failures, energy storage system malfunctions, and monitoring system breaches. Sublimit: $2.2M. Effective: February 1, 2026.",
+            "label": 0,
+            "type": "policy",
+            "context": "renewable_energy_policy"
+        },
+        {
+            "text": "Supply Chain Management System Failure: AI prediction system malfunction on November 8, 2025. Impact: Excess inventory ordered, $380,000 in unnecessary purchases. System offline for 24 hours. Vendor investigation ongoing.",
+            "label": 1,
+            "type": "claim",
+            "context": "supply_chain_ai_claim"
+        },
+        {
+            "text": "Requesting information about quantum-safe encryption requirements. Planning cryptographic infrastructure upgrade. Questions about: Approved algorithms, Implementation timeline, Legacy system compatibility.",
+            "label": 2,
+            "type": "support",
+            "context": "quantum_encryption_inquiry"
+        },
+        {
+            "text": "Healthcare AI Liability Amendment: Extended coverage for medical diagnostic AI errors, patient data analysis failures, and automated treatment planning mistakes. Limit: $5M aggregate. Effective: March 1, 2026.",
+            "label": 0,
+            "type": "policy",
+            "context": "healthcare_ai_policy"
+        },
+        {
+            "text": "Reporting biometric authentication system breach: Fingerprint database compromised December 3, 2025. Records affected: 5,000 employees. Investigation cost: $92,000. System replacement required. Temporary security measures implemented.",
+            "label": 1,
+            "type": "claim",
+            "context": "biometric_breach_claim"
+        },
+        {
+            "text": "Need guidance on virtual reality training system coverage. Implementing VR-based employee training program. Concerns about: User injury liability, Data privacy, Equipment damage coverage.",
+            "label": 2,
+            "type": "support",
+            "context": "vr_training_inquiry"
+        },
+        {
+            "text": "Autonomous Vehicle Fleet Policy: Coverage for self-driving vehicle operations, sensor failures, and AI decision-making errors. Includes remote operation incidents. Limit: $4M per occurrence. Effective: April 15, 2026.",
+            "label": 0,
+            "type": "policy",
+            "context": "autonomous_vehicle_policy"
+        },
+        {
+            "text": "Edge Computing Infrastructure Failure: Processing node malfunction on January 5, 2026. Location: Northeast data center. Service impact: Regional customer applications. Recovery costs: $155,000. Redundancy systems engaged.",
+            "label": 1,
+            "type": "claim",
+            "context": "edge_computing_claim"
+        },
+        {
+            "text": "Seeking clarification on space-based computing coverage. Launching orbital edge computing nodes. Questions about: Space debris damage, Radiation effects, Communication failure coverage.",
+            "label": 2,
+            "type": "support",
+            "context": "space_computing_inquiry"
+        },
+        {
+            "text": "Digital Currency Operations Policy: Coverage for stablecoin management, cryptocurrency exchange operations, and digital asset custody. Includes smart contract auditing requirements. Limit: $3.5M. Effective: May 1, 2026.",
+            "label": 0,
+            "type": "policy",
+            "context": "digital_currency_policy"
+        },
+        {
+            "text": "Neural Interface Device Incident: Brain-computer interface testing failure on February 10, 2026. Three users affected. Medical evaluation costs: $175,000. Device certification suspended. Regulatory investigation ongoing.",
+            "label": 1,
+            "type": "claim",
+            "context": "neural_interface_claim"
+        },
+        {
+            "text": "Questions about quantum network security coverage. Planning quantum key distribution implementation. Need information on: Entanglement failure protection, Node security requirements, Key compromise scenarios.",
+            "label": 2,
+            "type": "support",
+            "context": "quantum_network_inquiry"
+        },
+        {
+            "text": "Smart City Infrastructure Policy: Coverage for municipal IoT networks, automated traffic systems, and public safety monitoring platforms. Includes cyber-physical attacks. Limit: $6M aggregate. Effective: June 1, 2026.",
+            "label": 0,
+            "type": "policy",
+            "context": "smart_city_policy"
+        },
+        {
+            "text": "Reporting molecular computing system failure: DNA-based storage system error on March 15, 2026. Data corruption affected 500TB. Recovery effort cost: $280,000. Alternative storage systems activated.",
+            "label": 1,
+            "type": "claim",
+            "context": "molecular_computing_claim"
+        },
+        {
+            "text": "Seeking advice on holographic display system liability. Installing interactive customer service holograms. Questions about: Visual safety compliance, Privacy concerns, Equipment malfunction coverage.",
+            "label": 2,
+            "type": "support",
+            "context": "holographic_display_inquiry"
+        },
+        {
+            "text": "Robotic Process Automation Policy: Coverage for automated workflow failures, decision algorithm errors, and system integration incidents. Includes third-party damage. Limit: $2.8M. Effective: July 15, 2026.",
+            "label": 0,
+            "type": "policy",
+            "context": "rpa_policy"
+        },
+        {
+            "text": "Advanced Manufacturing System Breach: 3D printing system compromise on April 2, 2026. Unauthorized design modifications detected. Production loss: $195,000. Quality control systems updated. Security audit completed.",
+            "label": 1,
+            "type": "claim",
+            "context": "manufacturing_breach_claim"
+        },
+        {
+            "text": "Request for information on brain-machine interface coverage. Developing neural control systems for medical applications. Need clarity on: Clinical trial protection, User safety requirements, Technical malfunction coverage.",
+            "label": 2,
+            "type": "support",
+            "context": "bmi_coverage_inquiry"
+        },
+        {
+            "text": "Quantum Computing Service Policy: Coverage for quantum algorithm errors, qubit stability failures, and quantum advantage miscalculations. Includes error correction systems. Limit: $4.5M. Effective: August 1, 2026.",
+            "label": 0,
+            "type": "policy",
+            "context": "quantum_computing_policy"
+        },
+        {
+            "text": "Reporting augmented reality system failure: Navigation overlay malfunction on May 20, 2026. Users affected: 250. Medical evaluation costs: $85,000. System recalibration completed. Safety protocols enhanced.",
+            "label": 1,
+            "type": "claim",
+            "context": "ar_system_claim"
+        },
+        {
+            "text": "Seeking guidance on nanotechnology deployment coverage. Implementing molecular manufacturing systems. Questions about: Containment failures, Environmental impact, Health and safety incidents.",
+            "label": 2,
+            "type": "support",
+            "context": "nanotech_coverage_inquiry"
+        },
+        {
+            "text": "Biocomputing Infrastructure Policy: Coverage for synthetic biology computing platforms, DNA data storage, and protein-based processing systems. Limit: $3.2M per occurrence. Effective: September 15, 2026.",
+            "label": 0,
+            "type": "policy",
+            "context": "biocomputing_policy"
+        },
+        {
+            "text": "Smart Contract Platform Failure: Decentralized finance protocol exploit on June 8, 2026. Unauthorized transactions: $420,000. Platform suspended for 36 hours. Security audit conducted. Vulnerability patched.",
+            "label": 1,
+            "type": "claim",
+            "context": "defi_platform_claim"
+        },
+        {
+            "text": "Questions regarding atmospheric satellite network coverage. Deploying high-altitude platform stations. Need information on: Weather-related risks, Communication failures, Ground system integration.",
+            "label": 2,
+            "type": "support",
+            "context": "atmospheric_network_inquiry"
+        },
+        {
+            "text": "Neuromorphic Computing System Policy: Coverage for brain-inspired computing architectures, synaptic processing errors, and neural network failures. Limit: $2.5M aggregate. Effective: October 1, 2026.",
+            "label": 0,
+            "type": "policy",
+            "context": "neuromorphic_policy"
+        },
+        {
+            "text": "Digital Identity Theft Incident: Synthetic identity attack detected July 25, 2026. Fraudulent accounts created: 15. Financial impact: $165,000. Identity verification systems enhanced. Customer notifications sent.",
+            "label": 1,
+            "type": "claim",
+            "context": "identity_theft_claim"
+        },
+        {
+            "text": "Requesting information about quantum cryptography implementation. Planning secure communication upgrade. Questions about: Hardware requirements, Key distribution protocols, Incident response procedures.",
+            "label": 2,
+            "type": "support",
+            "context": "quantum_crypto_inquiry"
+        },
+        {
+            "text": "Space-Based Computing Policy: Coverage for orbital data centers, satellite processing nodes, and space-to-ground communication failures. Limit: $7M per occurrence. Effective: November 1, 2026.",
+            "label": 0,
+            "type": "policy",
+            "context": "space_computing_policy"
+        },
+        {
+            "text": "Reporting quantum entanglement network failure: Key distribution system malfunction on August 15, 2026. Secure communications affected: 4 hours. Recovery costs: $235,000. Backup systems activated.",
+            "label": 1,
+            "type": "claim",
+            "context": "quantum_network_claim"
+        },
+        {
+            "text": "Seeking advice on molecular manufacturing liability. Implementing atomic-scale assembly systems. Questions about: Quality control failures, Material contamination, Product liability coverage.",
+            "label": 2,
+            "type": "support",
+            "context": "molecular_manufacturing_inquiry"
+        },
+        {
+            "text": "Human Enhancement Technology Policy: Coverage for cognitive enhancement devices, neural implants, and biological optimization systems. Includes clinical trial protection. Limit: $5M. Effective: December 1, 2026.",
+            "label": 0,
+            "type": "policy",
+            "context": "human_enhancement_policy"
+        },
+        {
+            "text": "Metaverse Platform Incident: Virtual property destruction on September 3, 2026. Digital assets affected: 150 unique items. Economic impact: $180,000. Platform security upgraded. User compensation processed.",
+            "label": 1,
+            "type": "claim",
+            "context": "metaverse_incident_claim"
+        },
+        {
+            "text": "Questions about biological computing coverage. Developing DNA-based storage solutions. Need clarity on: Environmental containment, Data integrity verification, System contamination incidents.",
+            "label": 2,
+            "type": "support",
+            "context": "biocomputing_inquiry"
+        },
+        {
+            "text": "Swarm Robotics System Policy: Coverage for distributed robotic systems, collective decision-making failures, and emergent behavior incidents. Includes third-party damage. Limit: $3.8M aggregate. Effective: January 15, 2027.",
+            "label": 0,
+            "type": "policy",
+            "context": "swarm_robotics_policy"
+        },
+        {
+            "text": "Reporting fusion reactor control system breach: Safety protocol override attempted on October 5, 2026. Emergency shutdown initiated. Investigation costs: $520,000. No radiation exposure. Systems recertification required.",
+            "label": 1,
+            "type": "claim",
+            "context": "fusion_control_claim"
+        },
+        {
+            "text": "Need guidance on memory augmentation device coverage. Implementing cognitive enhancement technology. Questions about: Neural interface safety, Memory corruption risks, User consent requirements.",
+            "label": 2,
+            "type": "support",
+            "context": "memory_augmentation_inquiry"
+        },
+        {
+            "text": "Atmospheric Carbon Capture Policy: Coverage for direct air capture facilities, carbon storage failures, and monitoring system malfunctions. Includes environmental liability. Limit: $8M. Effective: February 1, 2027.",
+            "label": 0,
+            "type": "policy",
+            "context": "carbon_capture_policy"
+        },
+        {
+            "text": "Quantum Teleportation Network Incident: State transfer failure on November 12, 2026. Data integrity compromised. Recovery costs: $290,000. Quantum memory systems affected. Protocol verification completed.",
+            "label": 1,
+            "type": "claim",
+            "context": "quantum_teleport_claim"
+        },
+        {
+            "text": "Seeking clarification on synthetic biology containment coverage. Developing engineered microorganisms. Questions about: Containment protocols, Environmental release, Decontamination procedures.",
+            "label": 2,
+            "type": "support",
+            "context": "synbio_containment_inquiry"
+        },
+        {
+            "text": "Programmable Matter Systems Policy: Coverage for shape-shifting materials, self-assembling structures, and atomic-scale manufacturing errors. Limit: $2.7M per occurrence. Effective: March 15, 2027.",
+            "label": 0,
+            "type": "policy",
+            "context": "programmable_matter_policy"
+        },
+        {
+            "text": "Reporting consciousness transfer system failure: Neural pattern corruption during backup procedure on December 8, 2026. Two instances affected. Medical monitoring costs: $430,000. Backup systems verified.",
+            "label": 1,
+            "type": "claim",
+            "context": "consciousness_transfer_claim"
+        },
+        {
+            "text": "Questions about antimatter containment insurance. Installing research facility magnetic containment system. Need information on: Containment failure scenarios, Emergency protocols, Liability limits.",
+            "label": 2,
+            "type": "support",
+            "context": "antimatter_containment_inquiry"
+        },
+        {
+            "text": "Time Dilation Computing Policy: Coverage for relativistic processing systems, causality violation incidents, and temporal paradox resolution. Limit: $10M aggregate. Effective: April 1, 2027.",
+            "label": 0,
+            "type": "policy",
+            "context": "time_computing_policy"
+        },
+        {
+            "text": "Artificial Ecosystem Collapse: Synthetic biosphere stability failure on January 20, 2027. Environmental control systems compromised. Restoration costs: $375,000. Species preservation protocols activated.",
+            "label": 1,
+            "type": "claim",
+            "context": "ecosystem_collapse_claim"
+        },
+        {
+            "text": "Requesting guidance on dimensional gateway insurance. Developing controlled spacetime portal system. Concerns about: Cross-dimensional liability, Temporal effects, Safety protocols.",
+            "label": 2,
+            "type": "support",
+            "context": "dimensional_gateway_inquiry"
+        },
+        {
+            "text": "Planetary Terraforming Policy: Coverage for atmospheric modification systems, climate control failures, and ecological transformation incidents. Limit: $15B. Effective: May 1, 2027.",
+            "label": 0,
+            "type": "policy",
+            "context": "terraforming_policy"
+        },
+        {
+            "text": "Reporting gravity manipulation system malfunction: Local field distortion on February 15, 2027. Equipment damage: $680,000. Three facilities affected. Containment measures successful. Calibration restored.",
+            "label": 1,
+            "type": "claim",
+            "context": "gravity_system_claim"
+        },
+        {
+            "text": "Seeking advice on universal translator liability. Deploying real-time language processing system. Questions about: Mistranslation liability, Cultural offense coverage, System accuracy requirements.",
+            "label": 2,
+            "type": "support",
+            "context": "universal_translator_inquiry"
+        },
+        {
+            "text": "Dark Matter Containment Policy: Coverage for exotic matter storage, detection system failures, and interaction incidents. Includes research facility protection. Limit: $6M. Effective: June 15, 2027.",
+            "label": 0,
+            "type": "policy",
+            "context": "dark_matter_policy"
+        },
+        {
+            "text": "Mind-Machine Interface Failure: Cognitive synchronization error on March 10, 2027. Users affected: 5. Neural recalibration costs: $245,000. Emergency disconnection protocols executed.",
+            "label": 1,
+            "type": "claim",
+            "context": "mind_machine_claim"
+        },
+        {
+            "text": "Questions regarding temporal backup system coverage. Implementing causality protection measures. Need clarity on: Temporal paradox resolution, Data consistency requirements, Recovery procedures.",
+            "label": 2,
+            "type": "support",
+            "context": "temporal_backup_inquiry"
+        },
+        {
+            "text": "Interstellar Communication Policy: Coverage for lightspeed data transmission, quantum entanglement networks, and ansible system failures. Limit: $12M aggregate. Effective: July 1, 2027.",
+            "label": 0,
+            "type": "policy",
+            "context": "interstellar_communication_policy"
+        },
+        {
+            "text": "Energy Singularity Containment Breach: Zero-point energy fluctuation on April 5, 2027. Containment systems stressed. Mitigation costs: $890,000. Facility shutdown required. Safety protocols reviewed.",
+            "label": 1,
+            "type": "claim",
+            "context": "energy_singularity_claim"
         }
     ]
 }
