@@ -1,3 +1,7 @@
+# Model Results and large model files
+src/results/
+models/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
